@@ -1,0 +1,6 @@
+{
+  "name": "Embedding Explorer",
+  "description": "An interactive simulator for learning about AI token embeddings in 1D, 2D, and 3D dimensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
